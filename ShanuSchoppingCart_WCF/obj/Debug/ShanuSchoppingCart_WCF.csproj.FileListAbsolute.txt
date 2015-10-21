@@ -1,0 +1,64 @@
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\obj\Debug\ShanuSchoppingCart_WCF.csprojResolveAssemblyReference.cache
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\ShanuSchoppingCart_WCF.dll.config
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\ShanuSchoppingCart_WCF.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\ShanuSchoppingCart_WCF.pdb
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\EntityFramework.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\EntityFramework.SqlServer.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\EntityFramework.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\EntityFramework.SqlServer.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\obj\Debug\ShanuSchoppingCart_WCF.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\ShanuAngular_SchoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\obj\Debug\ShanuSchoppingCart_WCF.pdb
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\ShanuSchoppingCart_WCF.dll.config
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\ShanuSchoppingCart_WCF.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\ShanuSchoppingCart_WCF.pdb
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Antlr3.Runtime.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\EntityFramework.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\EntityFramework.SqlServer.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Owin.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Owin.Security.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Newtonsoft.Json.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Owin.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\RazorEngine.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Net.Http.Extensions.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Net.Http.Formatting.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Net.Http.Primitives.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Helpers.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Http.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Http.WebHost.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Mvc.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Razor.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.WebPages.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\WebGrease.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Antlr3.Runtime.pdb
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\EntityFramework.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\EntityFramework.SqlServer.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Owin.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Owin.Security.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\Newtonsoft.Json.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\RazorEngine.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Net.Http.Extensions.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Net.Http.Formatting.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Net.Http.Primitives.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Helpers.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Http.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Http.WebHost.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Mvc.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.Razor.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.WebPages.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\obj\Debug\ShanuSchoppingCart_WCF.csproj.App.config
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\obj\Debug\ShanuSchoppingCart_WCF.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\obj\Debug\ShanuSchoppingCart_WCF.dll
+C:\Projects\Sandbox\ShoppingCart\ShanuSchoppingCart_WCF\ShanuSchoppingCart_WCF\obj\Debug\ShanuSchoppingCart_WCF.pdb
